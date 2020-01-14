@@ -9,7 +9,7 @@ My motivation for picking this gaming app is that I am passionate about simple g
 
 ### Weblink: https://apps.apple.com/us/app/magic-piano-tiles-4-pop-songs/id1487783200
 
-### Screenshots: [GitHub](http://github.com)
+### Screenshots: 
 
 ### Overall evaluation:
 
@@ -96,7 +96,7 @@ My motivation for picking this music app is that I like the idea of having a fre
 
 ### Weblink: https://apps.apple.com/us/app/video-mate-music-playlist-tubemate-audio-player/id1177839096
 
-### Screenshots:
+### Screenshots: 
 
 ### Overall evaluation:
 
