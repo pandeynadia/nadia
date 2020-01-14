@@ -14,6 +14,8 @@ Screenshots:
 Overall evaluation:
 The game is simple: the user clicks rectangular boxes consistently while music plays while the speed of the boxes gets faster with time. Overall, the game is very fun to play ones the user acquires the skills to play the game but due to the lack of direction or help tools, the game is only intended for expert phone gamers. The game also freezes a lot and at times, the music while playing the game pauses for unknown reasons. Even though the game is fun to play, the unknown variables makes this game incredibly frustrating. If the game could add “how to play” or “help” features, the user would feel less need to be frustrated. The color scheme of the game is also not color-blind, which limits audiences. Another feature that could be added is the display button of the number of level and a pause button in case the user gets interrupted while playing the game. Also, a “Save” button would be helpful so the user can return to the game at a later time without losing progress. Regardless, the game is very fixable, and the overall idea of the game is very entertaining as clicking on the dark blue rectangular boxes is entertaining.
 
+Heuristics evaluation for App #1:
+
 1.	Visibility of system status
 
 •	Communication of system status is not present. For example, when the user plays the game, there is no indicator of life. (Severity rating: 2).
