@@ -9,7 +9,7 @@ My motivation for picking this gaming app is that I am passionate about simple g
 
 ### Weblink: https://apps.apple.com/us/app/magic-piano-tiles-4-pop-songs/id1487783200
 
-### Screenshots:
+### Screenshots: [GitHub](http://github.com)
 
 ### Overall evaluation:
 
