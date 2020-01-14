@@ -62,6 +62,8 @@ The game is simple: the user clicks rectangular boxes consistently while music p
 
 •	There is an internal consistency of tapping each rectangle to get the points, however, the game only gives the user a four second screen which tells the user to “tap the box as it approaches the line to get a ‘perfect’ rating.” What if the user can’t read fast and he or she is a new gamer and who does not know about tapping the rectangular buttons on the screen? In this way, the game frustrates the user as they have to spend time and effort to learn how to perform actions if they are not a fast reader. The game also assumes that the users have a prior knowledge of how to play the game. The word “rating” is also confusing so I would change this word to “score” instead as more people know what scores mean in a game than “rating.” (Severity rating: 3).
 
+![IMG_0389](https://user-images.githubusercontent.com/59589242/72332352-c0f7f700-366e-11ea-873f-feb55d7bccea.png)
+
 ## 5.	Error prevention
 
 •	As previously mentioned, sometimes, the game freezes. However, there are no “get help” button. This button could help with any error the game designers overlooked in order to improve the game and the user experience. (Severity rating: 3).
@@ -75,6 +77,8 @@ The game is simple: the user clicks rectangular boxes consistently while music p
 •	Since there is no “how to play” button or manual, the game is only efficient for expert gamers and not a beginner, who would have to take extra time to play the game and learn it only through trial and error.  (Severity rating: 2).
 
 •	The instructions to “tap the box” is pretty easy but because it displays only for 4 seconds before the game starts, the instruction is easy to miss. (Severity rating: 2).
+
+![IMG_0390](https://user-images.githubusercontent.com/59589242/72332355-c2292400-366e-11ea-997b-c5c5f85d847a.png)
 
 •	Only one person can play the game and there is no way for two people to play. A “switch user” button would be effective as it would let the gamers switch turns and compete for higher scores. (Severity rating: 2).
 
@@ -107,6 +111,10 @@ My motivation for picking this music app is that I like the idea of having a fre
 
 ### Screenshots: 
 
+![IMG_0379](https://user-images.githubusercontent.com/59589242/72332481-f8ff3a00-366e-11ea-80bf-59a8b1344394.png)
+
+![IMG_0378](https://user-images.githubusercontent.com/59589242/72332485-f997d080-366e-11ea-802a-4ac50a44eaf1.png)
+
 ### Overall evaluation:
 
 This app caught my attention with its cost-free feature and its categorized section where I can choose which type of music I want to listen to, such as, action, adventure, animation etc. However, this app quickly disappointed me by not letting me pick my own songs and freezing the screen often with “network error” message. There is also no help button and the “top 100” music page is outdated to early 2010 songs. There is no music on the “popular” page nor any instructions on adding music. There is also no way to create a playlist. Therefore, the app could be fixed and user friendly by having a “help” “add music” and an updated selection of music on every interface. 
@@ -117,7 +125,11 @@ This app caught my attention with its cost-free feature and its categorized sect
 
 •	Selecting a song takes only a couple seconds, but it does not let me see a progress bar, which means that I cannot see when it will be complete. (Severity rating: 1).
 
+![IMG_0375](https://user-images.githubusercontent.com/59589242/72332569-16cc9f00-366f-11ea-9539-d54c3b452c7a.png)
+
 •	More than half of the time of using the app, error message appears without a way for resolution, which means that the upload process for music has more than fifty percent change of failing. For this reason, I would add a “Report” button, which will allow me to report the system failure to the creator so that they are aware of the frequent bugs and can find a solution. (Severity rating: 3).
+
+![IMG_0377](https://user-images.githubusercontent.com/59589242/72332603-277d1500-366f-11ea-9698-4087695ebace.png)
 
 ## 2.	Match between system and the real world
 
@@ -125,9 +137,11 @@ This app caught my attention with its cost-free feature and its categorized sect
 
 •	The app can only be added to “My Playlist” after clicking on the heart symbol. However, this makes the app very confusing as a lot of the time, clicking the heart symbol only favorites the songs instead of putting it on a playlist, which makes this feature counterintuitive. (Severity rating: 2).
 
+![IMG_0376](https://user-images.githubusercontent.com/59589242/72332636-3a8fe500-366f-11ea-9bf2-c3bef885bbfc.png)
+
 ## 3.	User control and freedom
 
-•	The app does a good job at putting the user in charge of the app for the most part by letting them pick their own songs, like their favorite music. However, the app does not feature recent songs even though it states it on the description and the search logo of the app can be misleading as some songs do no display or play. Instead, a “Network error” pops up. (Severity rating: 2).
+•	The app does a good job at putting the user in charge of the app for the most part by letting them pick a variety of songs, like their favorite music. However, the app does not feature recent songs even though it states it on the description and the search logo of the app can be misleading as some songs do no display or play. Instead, a “Network error” pops up. (Severity rating: 2).
 
 •	There is also no “back” or “undo” button in case user wants to go back and change their mind. Instead, there is a “done” button, which only works after the song loads and starts playing, wasting the user’s time. (Severity rating: 2).
 
@@ -135,11 +149,17 @@ This app caught my attention with its cost-free feature and its categorized sect
 
 •	The app does a consistent job of having the different menus on the bottom of the page, which is similar to other popular music apps such as apple music. The app also uses a magnifier icon to signify a search feature on the bottom left corner of the app. In the search menu, there is also another magnifier icon in order to clarify that the user can press it to find other songs. Unfortunately, because the search icon does not display many songs, it is very misleading to the user. (Severity rating: 1).
 
+![IMG_0380](https://user-images.githubusercontent.com/59589242/72332771-7f1b8080-366f-11ea-9bbe-f5d16302ffac.png)
+
 •	A music app standard that’s missing from the app is the alphabetical order of songs. For example, songs with “L” titles such as “lovely” appears before songs with “H” titles such as “Hall of Fame.” This makes it counterintuitive and is opposite of a lot of other popular and well-known music apps such as apple music or Spotify because most songs are expected to be alphabetized. This confuses the user and makes it time consuming to find songs as they have to look through each song. (Severity rating: 2).
+
+![IMG_0381](https://user-images.githubusercontent.com/59589242/72332812-8f336000-366f-11ea-944c-6cdcdde91bde.png)
 
 ## 5.	Error prevention
 
 •	There is no way for the creator to detect if the user may have committed an error because when an error occurs, it only gives an “ok” button for the user to click. This prevents the user from reporting the error or pointing out an efficient way to clear the error to the user. This makes the app very frustrating. (Severity rating: 3).
+
+![IMG_0365](https://user-images.githubusercontent.com/59589242/72332849-a3775d00-366f-11ea-90a5-8eed99e8e0c6.png)
 
 •	Some time, the playlist resets itself for unknown reasons and the user has to re-save their favorite songs. This is time consuming and makes the app unsatisfying. (Severity rating: 3).
 
@@ -150,6 +170,8 @@ This app caught my attention with its cost-free feature and its categorized sect
 •	The search bar also does not display any songs that the user may like according to the songs that they have liked in the past. The user may get bored by playing same songs and may want suggestions. (Severity rating: 1).
 
 •	Even though the app has many diverse categories of songs, many of them are empty, which makes having the categories meaningless. For example, the “comedy” category is empty. The app should omit the empty categories in order to not get the user’s hopes up that it contains a song from a category it does not. (Severity rating: 3).
+
+![IMG_0386](https://user-images.githubusercontent.com/59589242/72332911-bee26800-366f-11ea-8515-769f10aa1b24.png)
 
 ## 7.	Flexibility and efficiency of use
 
@@ -167,7 +189,9 @@ This app caught my attention with its cost-free feature and its categorized sect
 
 ## 9.	Help users recognize, diagnose, and recover from errors
 
-•	There is no way for the user to recover from errors. As previously mentioned, the app only displays “okay” when it creates an error message, which leaves the user helpless. (Severity rating: 3).
+•	There is no way for the user to recover from errors. As previously mentioned, the app only displays “OK” when it creates an error message, which leaves the user helpless. (Severity rating: 3).
+
+![IMG_0377](https://user-images.githubusercontent.com/59589242/72333011-ecc7ac80-366f-11ea-8bab-278bc39735c3.png)
 
 •	Due to the lack of “Report error” button, the error may never be fixed by the creator as they may be unaware of the bugs. This leaves the user hopeless and uninterested in the app. (Severity rating: 3).
 
