@@ -88,3 +88,15 @@ The game is simple: the user clicks rectangular boxes consistently while music p
 •	Again, there is no “help,” “tour” “search” or “how to play” button. I would make at least one of these features available at every interface. (Severity rating: 3).
 
 •	An “FAQ” page and a chat box would help users not only get answers to most commonly asked questions, but it would create a community where other users can ask each other questions and give answers, which could make the game more popular. (Severity rating: 2).
+
+## App #2: Video Mate: Music Playlist & TubeMate Audio Player
+
+### Motivation: 
+My motivation for picking this music app is that I like the idea of having a free app where I can listen to or browse songs without subscribing or paying for it. As a student who is on a tight budget, I understand the need for others like me to find a way to enjoy music without financial burdens. I want to find a way to make music accessible and effortless for individuals. Moreover, because this app offers music videos, the user has a choice of only listening to the music or watching the music video as they play their favorite songs.
+
+### Weblink: https://apps.apple.com/us/app/video-mate-music-playlist-tubemate-audio-player/id1177839096
+
+### Screenshots:
+
+### Overall evaluation:
+
