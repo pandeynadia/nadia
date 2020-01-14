@@ -102,7 +102,7 @@ My motivation for picking this music app is that I like the idea of having a fre
 
 This app caught my attention with its cost-free feature and its categorized section where I can choose which type of music I want to listen to, such as, action, adventure, animation etc. However, this app quickly disappointed me by not letting me pick my own songs and freezing the screen often with “network error” message. There is also no help button and the “top 100” music page is outdated to early 2010 songs. There is no music on the “popular” page nor any instructions on adding music. There is also no way to create a playlist. Therefore, the app could be fixed and user friendly by having a “help” “add music” and an updated selection of music on every interface. 
 
-## Heuristics evaluation for App #1:
+## Heuristics evaluation for App #2:
 
 ## 1.	Visibility of system status
 
@@ -166,4 +166,4 @@ This app caught my attention with its cost-free feature and its categorized sect
 
  ## 10.	Help and documentation
 
-•	There are no instructions or help menu, which makes it inaccessible. As previously stated, “FAQ” page or open public forums could help create a community, and document errors for others to solve the problem if the creator is unable. ((Severity rating: 3).
+•	There are no instructions or help menu, which makes it inaccessible. As previously stated, “FAQ” page or open public forums could help create a community, and document errors for others to solve the problem if the creator is unable. (Severity rating: 3).
