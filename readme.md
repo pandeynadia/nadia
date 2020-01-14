@@ -1,4 +1,4 @@
-# The Gaming Apps and its Usability Friendliness
+# Usability Friendliness of Gaming and Music Applications
 
 ## DH 150 Assignment01: Heuristic Evaluation by Nadia Pandey
 
