@@ -106,3 +106,64 @@ This app caught my attention with its cost-free feature and its categorized sect
 
 ## 1.	Visibility of system status
 
+•	Selecting a song takes only a couple seconds, but it does not let me see a progress bar, which means that I cannot see when it will be complete. (Severity rating: 1).
+
+•	More than half of the time of using the app, error message appears without a way for resolution, which means that the upload process for music has more than fifty percent change of failing. For this reason, I would add a “Report” button, which will allow me to report the system failure to the creator so that they are aware of the frequent bugs and can find a solution. (Severity rating: 3).
+
+## 2.	Match between system and the real world
+
+•	The app is great at using concepts like “Playlists,” “Genres,” and “Popular” as these are very familiar with real world systems. However, these features cannot be used offline and freezes without a strong WI-FI connections, which can be unrealistic as many people do not always have access to a strong Wi-Fi on-the-go. The app’s inability to efficiently play songs offline also means that it cannot be used while a user is walking, running, on the bus or in the car, which makes this app inefficient when it comes its adaptability to real world circumstances. (Severity rating: 3).
+
+•	The app can only be added to “My Playlist” after clicking on the heart symbol. However, this makes the app very confusing as a lot of the time, clicking the heart symbol only favorites the songs instead of putting it on a playlist, which makes this feature counterintuitive. (Severity rating: 2).
+
+## 3.	User control and freedom
+
+•	The app does a good job at putting the user in charge of the app for the most part by letting them pick their own songs, like their favorite music. However, the app does not feature recent songs even though it states it on the description and the search logo of the app can be misleading as some songs do no display or play. Instead, a “Network error” pops up. (Severity rating: 2).
+
+•	There is also no “back” or “undo” button in case user wants to go back and change their mind. Instead, there is a “done” button, which only works after the song loads and starts playing, wasting the user’s time. (Severity rating: 2).
+
+## 4.	Consistency and standards
+
+•	The app does a consistent job of having the different menus on the bottom of the page, which is similar to other popular music apps such as apple music. The app also uses a magnifier icon to signify a search feature on the bottom left corner of the app. In the search menu, there is also another magnifier icon in order to clarify that the user can press it to find other songs. Unfortunately, because the search icon does not display many songs, it is very misleading to the user. (Severity rating: 1).
+
+•	A music app standard that’s missing from the app is the alphabetical order of songs. For example, songs with “L” titles such as “lovely” appears before songs with “H” titles such as “Hall of Fame.” This makes it counterintuitive and is opposite of a lot of other popular and well-known music apps such as apple music or Spotify because most songs are expected to be alphabetized. This confuses the user and makes it time consuming to find songs as they have to look through each song. (Severity rating: 2).
+
+## 5.	Error prevention
+
+•	There is no way for the creator to detect if the user may have committed an error because when an error occurs, it only gives an “ok” button for the user to click. This prevents the user from reporting the error or pointing out an efficient way to clear the error to the user. This makes the app very frustrating. (Severity rating: 3).
+
+•	Some time, the playlist resets itself for unknown reasons and the user has to re-save their favorite songs. This is time consuming and makes the app unsatisfying. (Severity rating: 3).
+
+## 6.	Recognition rather than recall
+
+•	The search button does not have a scroll down button with suggested songs once the user starts typing the name of a favorite songs. What happens if the user can only partially remember the name of the songs or forgets the artist’s name? The user is left to recall the full name of the artist and the name of the song instead of recognizing familiar songs from suggested songs like when typing in partial titles. (Severity rating: 3).
+
+•	The search bar also does not display any songs that the user may like according to the songs that they have liked in the past. The user may get bored by playing same songs and may want suggestions. (Severity rating: 1).
+
+•	Even though the app has many diverse categories of songs, many of them are empty, which makes having the categories meaningless. For example, the “comedy” category is empty. The app should omit the empty categories in order to not get the user’s hopes up that it contains a song from a category it does not. (Severity rating: 3).
+
+## 7.	Flexibility and efficiency of use
+
+•	As previously discussed, the app is not flexible because the app does not let the user chose their own songs. The app also does not alphabetize their songs which makes it disorganized and inefficient. (Severity rating: 3).
+
+•	The app does not let the user play songs when it not connected to a strong Wi-Fi signal, which further makes the app inflexible. (Severity rating: 3).
+
+•	This app is very inefficient for new users as the user needs to familiar with the songs on the app. Otherwise, the user is left to spend a lot of extra free time trying to scroll down songs and at times re-favorite songs that somehow get deleted. A “Save the Playlist to my phone” button would solve half of this issue. (Severity rating: 3).
+
+## 8.	Aesthetic and minimalist design
+
+•	The app is good in being a minimalist design and everything presented is only what is necessary and useful. The app goes straight to the point and the menus are not difficult to figure out. But, the app fails to highlight many other features such as “back,” “Help,” “FAQ” buttons, all of which could help the user find solutions when they are confused or come across an error message. (Severity rating: 3).
+
+•	The background design is also not distracting. However, there is no color-blind pallet which makes it less accessible to some users who are color-blind. (Severity rating: 3).
+
+## 9.	Help users recognize, diagnose, and recover from errors
+
+•	There is no way for the user to recover from errors. As previously mentioned, the app only displays “okay” when it creates an error message, which leaves the user helpless. (Severity rating: 3).
+
+•	Due to the lack of “Report error” button, the error may never be fixed by the creator as they may be unaware of the bugs. This leaves the user hopeless and uninterested in the app. (Severity rating: 3).
+
+•	There are random error messages stating “Network error” even when the app is working, which confuses the user because they are left to wonder if they did anything wrong and it again leaves them without a solution. (Severity rating: 3).
+
+ ## 10.	Help and documentation
+
+•	There are no instructions or help menu, which makes it inaccessible. As previously stated, “FAQ” page or open public forums could help create a community, and document errors for others to solve the problem if the creator is unable. ((Severity rating: 3).
