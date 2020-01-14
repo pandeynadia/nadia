@@ -2,6 +2,8 @@
 
 ## DH 150 Assignment01: Heuristic Evaluation by Nadia Pandey
 
+## I want to contribute to the community of inexperienced tecnological users in gaming and/or music application who cannot afford to buy application or music in the application. I want to help phone applications explored on this page be more simple and easy to use for everyday users.
+
 ## App #1: Magic Piano Tiles 4: Pop Songs
 
 ### Motivation: 
