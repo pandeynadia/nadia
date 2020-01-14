@@ -37,13 +37,18 @@ The game is simple: the user clicks rectangular boxes consistently while music p
 
 •	The only indicators in the game are the 3 stars and 3 crowns at the top. However, sometime, this feature does not work and there is again no manual for what the 3 stars or crowns mean. (Severity rating: 3).
 
+
 ## 2.	Match between system and the real world
 
 •	The app has some unfamiliar interface. For example, the star and crown symbol mentioned above makes it unclear if the stars are better than the crowns, or if they are the same. Are there special points earned if one gets a star vs. a crown? These are the types of questions the user is left to wonder on their own. (Severity rating: 3).
 
 •	As soon as I open the game, a screen appears with a “Buy it” button and under it another button that says, “I get it.” I would remove “I get it” because it is quite annoying to the user and it does not make it clear what “I get it” refers to. I would also not have this screen as the first thing that appears because it makes the user believe that he or she may not be able to play the game without buying it first, which is misleading. (Severity rating: 2).
 
+![IMG_0387](https://user-images.githubusercontent.com/59589242/72332006-141d7a00-366e-11ea-9b96-baf7e920bd49.png)
+
 •	There is no “Help” menu. The user is left to fend for themselves in the game without any knowledge of how to play the game. (Severity rating: 3).
+
+![IMG_0388](https://user-images.githubusercontent.com/59589242/72332033-25668680-366e-11ea-9119-b541e4f2df92.png)
 
 ## 3.	User control and freedom
 
