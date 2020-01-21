@@ -2,7 +2,7 @@
 
 ## Link to your online survey [here](https://forms.gle/nLCm5j1wg1DmyyGKA)
 
-## Link to your pilot UT video [here]()
+## Link to your pilot UT video [here](https://drive.google.com/a/g.ucla.edu/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/view?usp=drivesdk)
 
 ## Reflection:
 
