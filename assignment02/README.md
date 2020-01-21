@@ -1,4 +1,4 @@
-# DH 150 assignment02 Usability testing
+# DH 150 assignment02: Usability testing by Nadia Pandey
 
 ## Link to your online survey [here](https://forms.gle/nLCm5j1wg1DmyyGKA)
 
