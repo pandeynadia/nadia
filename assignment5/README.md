@@ -6,17 +6,19 @@ The main activity for this project is to see what makes the user download specif
 
 I plan to use the participatory observation/ethnographic field research method where I am visiting the place where the user lives and shadowing them, interviewing them, and asking users to download and play a game they would like from the application store. Doing this will help me understand what the user likes/does not like, their verbal expressions and their facial cues. I will act as an apprentice and the user will be play the role of the master during this interaction. In doing so, I will be able to learn from the user and see realistic ways in which I could improve mobile game apps and how game apps can better fit the users’ needs, wants and instincts. I will ask the user some questions that will be in the interview guide. I will use phrases such as “show me,” or “tell me,” in order to let them guide me and not the other way around. I will also be recording the user so that I can go back and review the audio for further research. The location will be in the user’s living room so that they are comfortable, and it is in the place where the user mostly places games. I will observe the user picking a game app from the phone and he will guide me and tell me what he looks for, enjoys, likes, does not like while playing the game. I will also observe any facial distress in my notes if the user gets uncomfortable during the process. Again, this will be a face to face user interaction where the user will play the game while I observe, audio record, and learn from the user.
 
-#	Link to interview/observation guide:
+#	Link to Contextual Inquiry guide(script):
 
 [Nadia Pandey Field Research Script.docx](https://github.com/pandeynadia/nadia/files/4151830/Nadia.Pandey.Field.Research.Script.docx)
 
-#	Digitized notes (scan/photo):
+#	Link to Digitized notes (scan/photo):
 
 <img width="482" alt="Screen Shot 2020-02-03 at 11 03 07 PM" src="https://user-images.githubusercontent.com/59589242/73721647-98957280-46d9-11ea-83d4-8d0b23d453fe.png">
 
-#	Link to your representative data file:
+#	Link to data file (audio):
 
-#	Link to the transcript your interview:
+[Contextual Inquiry audio.cmproj.zip](https://github.com/pandeynadia/nadia/files/4151889/Contextual.Inquiry.audio.cmproj.zip)
+
+# Link to the transcript your interview:
 
 [Contextual Inquiry.txt](https://github.com/pandeynadia/nadia/files/4151831/Contextual.Inquiry.txt)
 
