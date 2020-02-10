@@ -8,9 +8,27 @@ This project intends to see if the user can interact with the game application, 
 
 ## A list of tasks that the paper prototype of the system supported. Note: I have typed the tasks of each prototype below, and added the photos below with a full bio and profile of personas, along with wireframes/wireflow:
 
-### Prototype #1: Finding instructions on how to play the game:
-### Prototype #2: Choosing your own songs/playlist
-### Prototype #3: Invite a Friend
+### Tasks for Prototype #1: Finding instructions on how to play the game:
+1. Enter username and password.
+2. Click on How to Play.
+3. After reading the instructions, press Done.
+4. Play the Game.
+5. Save the Game.
+
+### Tasks for Prototype #2: Choosing your own songs/playlist
+1. After entering username and password, choose a song.
+2. Click on one of the Playlist that you want to sync.
+3. Select All of the songs.
+4. Click Sync button.
+5. Play the Game.
+
+### Tasks for Prototype #3: Invite a Friend
+1. After entering username and password, Invite a friend to play the game.
+2. Play Live Mode.
+3. Enter Friend's Code.
+4. Click on Play Live Mode.
+5. Play the Game.
+6. Save the Game.
 
 ## A video of the prototype in different states, showing it being tested:
 
