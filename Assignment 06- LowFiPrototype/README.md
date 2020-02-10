@@ -30,10 +30,15 @@ This project intends to see if the user can interact with the game application, 
 5. Play the Game.
 6. Save the Game.
 
-## A video of the prototype in different states, showing it being tested:
+## A video of the prototype in different stages being tested:
 
 ## A description of what I would change or design differently based on the feedback I got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype:
 
 ### Prototype #1: Finding instructions on how to play the game:
-### Prototype #2: Choosing your own songs/playlist
-### Prototype #3: Invite a Friend
+For this prototype, the tester hesitated to follow the screen order because I drew the wireframes in the order of left to right for the first three and then right to left for the last two. In the future, I would draw the wireframes from left to right as most of us automatically learn to read this way therefore, it can be confusing if the user is forced to follow the screen the opposite way.
+
+### Prototype #2: Choosing your own songs/playlist:
+For this protoype, the user did not know what the "No" button on the All songs synced page of the app did. In the furuter, I will make sure to write on the button "Go Back" instead of "No" so that the user knows that the button can take them back to the previous screen. I would also insert "Back" button on every page for consistency and easiness for the user.
+
+### Prototype #3: Invite a Friend:
+For this 
