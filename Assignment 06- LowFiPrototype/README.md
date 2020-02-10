@@ -1,3 +1,7 @@
+#LowFiPrototype
+
+#DH 150 Assignment06 by Nadia Pandey
+
 ## A brief description of your project.
 ## A list of tasks that the paper prototype of your system supported.
 ## A set of pictures of the prototype in different states, showing it being tested.
