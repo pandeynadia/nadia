@@ -34,7 +34,7 @@ This project intends to see if the user can interact with the game application, 
 
 Link: https://drive.google.com/file/d/1Nfrpt2SwQr_IwWQMMwDkue0Eahb396zW/view?usp=sharing
 
-## A description of what I would change or design differently based on the feedback I got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype:
+## A description of what I would change or design differently based on the feedback I got from the prototype testing:
 
 ### Prototype #1: Finding instructions on how to play the game:
 For this prototype, the tester hesitated to follow the screen order because I drew the wireframes in the order of left to right for the first three and then right to left for the last two. In the future, I would draw the wireframes from left to right as most of us automatically learn to read this way therefore, it can be confusing if the user is forced to follow the screen the opposite way.
