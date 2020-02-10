@@ -32,6 +32,8 @@ This project intends to see if the user can interact with the game application, 
 
 ## A video of the prototype in different stages being tested:
 
+Link: https://drive.google.com/file/d/1Nfrpt2SwQr_IwWQMMwDkue0Eahb396zW/view?usp=sharing
+
 ## A description of what I would change or design differently based on the feedback I got from the prototype testing. For each, describe in a sentence or two what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype:
 
 ### Prototype #1: Finding instructions on how to play the game:
