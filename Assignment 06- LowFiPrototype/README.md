@@ -6,7 +6,7 @@
 
 This project intends to see if the user can interact with the game application, "PianoTiltes4" by creating a paper protoype and testing it with another individual to see if they can follow the steps with an ease or if there is further error that needs to be fixed. I have put together three personas, each of which cover a feature of the game. I have written an ideal situation with a goal for each persona, their needs, context, behavior, and stories. I have also included the wireframe flow of me doing it and one of the user testing it to see if they can follow my thought process.
 
-## A list of tasks that the paper prototype of the system supported. Note: I have typed the tasks of each prototype below, and added the photos below with a full bio and profile of personas, along with wireframes/wireflow:
+## A list of tasks that the paper prototype of the system supported. Note: I have typed the tasks of each prototype below, and added the PDFs of the photos below, which includes a full bio and profile of personas, along with wireframes/wireflow:
 
 ### Tasks for Prototype #1: Finding instructions on how to play the game:
 1. Enter username and password.
@@ -16,7 +16,9 @@ This project intends to see if the user can interact with the game application, 
 5. Save the Game.
 
 [Prototype#1 Wireframe.pdf](https://github.com/pandeynadia/nadia/files/4179020/Prototype.1.Wireframe.pdf)
+
 [Task:Problem #1.pdf](https://github.com/pandeynadia/nadia/files/4179024/Task.Problem.1.pdf)
+
 [Task:Problem #1.2.pdf](https://github.com/pandeynadia/nadia/files/4179029/Task.Problem.1.2.pdf)
 
 ### Tasks for Prototype #2: Choosing your own songs/playlist
@@ -27,7 +29,9 @@ This project intends to see if the user can interact with the game application, 
 5. Play the Game.
 
 [Prototype #2 Wireframe.pdf](https://github.com/pandeynadia/nadia/files/4179035/Prototype.2.Wireframe.pdf)
+
 [Task:Problem #2.1.pdf](https://github.com/pandeynadia/nadia/files/4179038/Task.Problem.2.1.pdf)
+
 [Task:Problem 2.2.pdf](https://github.com/pandeynadia/nadia/files/4179039/Task.Problem.2.2.pdf)
 
 ### Tasks for Prototype #3: Invite a Friend
@@ -40,6 +44,9 @@ This project intends to see if the user can interact with the game application, 
 
 [Prototype #3 Wireframe .pdf](https://github.com/pandeynadia/nadia/files/4179043/Prototype.3.Wireframe.pdf)
 
+[Task:Problem #3.1.pdf](https://github.com/pandeynadia/nadia/files/4179046/Task.Problem.3.1.pdf)
+
+[Task:Problem #3.2.pdf](https://github.com/pandeynadia/nadia/files/4179047/Task.Problem.3.2.pdf)
 
 ## A video of the prototype in different stages being tested:
 
