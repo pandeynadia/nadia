@@ -38,7 +38,7 @@ This project intends to see if the user can interact with the game application, 
 For this prototype, the tester hesitated to follow the screen order because I drew the wireframes in the order of left to right for the first three and then right to left for the last two. In the future, I would draw the wireframes from left to right as most of us automatically learn to read this way therefore, it can be confusing if the user is forced to follow the screen the opposite way.
 
 ### Prototype #2: Choosing your own songs/playlist:
-For this protoype, the user did not know what the "No" button on the All songs synced page of the app did. In the furuter, I will make sure to write on the button "Go Back" instead of "No" so that the user knows that the button can take them back to the previous screen. I would also insert "Back" button on every page for consistency and easiness for the user.
+For this protoype, the tester did not know what the "No" button on the All songs synced page of the app did. In the furuter, I will make sure to write on the button "Go Back" instead of "No" so that the user knows that the button can take them back to the previous screen. I would also insert "Back" button on every page for consistency and easiness for the user.
 
 ### Prototype #3: Invite a Friend:
-For this 
+For this prototype, the tester was confused on the Live Mode screen where they did not fully understand the instruction and thought that the "Enter Friend's Code" button was actually a place for them to enter their own code and not the friends. The instructions on the wireframe may have been hard to read. In the future, I will write clearer instructions so that the tester can understand excatly what each button means. 
