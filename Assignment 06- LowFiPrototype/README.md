@@ -15,12 +15,20 @@ This project intends to see if the user can interact with the game application, 
 4. Play the Game.
 5. Save the Game.
 
+[Prototype#1 Wireframe.pdf](https://github.com/pandeynadia/nadia/files/4179020/Prototype.1.Wireframe.pdf)
+[Task:Problem #1.pdf](https://github.com/pandeynadia/nadia/files/4179024/Task.Problem.1.pdf)
+[Task:Problem #1.2.pdf](https://github.com/pandeynadia/nadia/files/4179029/Task.Problem.1.2.pdf)
+
 ### Tasks for Prototype #2: Choosing your own songs/playlist
 1. After entering username and password, choose a song.
 2. Click on one of the Playlist that you want to sync.
 3. Select All of the songs.
 4. Click Sync button.
 5. Play the Game.
+
+[Prototype #2 Wireframe.pdf](https://github.com/pandeynadia/nadia/files/4179035/Prototype.2.Wireframe.pdf)
+[Task:Problem #2.1.pdf](https://github.com/pandeynadia/nadia/files/4179038/Task.Problem.2.1.pdf)
+[Task:Problem 2.2.pdf](https://github.com/pandeynadia/nadia/files/4179039/Task.Problem.2.2.pdf)
 
 ### Tasks for Prototype #3: Invite a Friend
 1. After entering username and password, Invite a friend to play the game.
@@ -29,6 +37,9 @@ This project intends to see if the user can interact with the game application, 
 4. Click on Play Live Mode.
 5. Play the Game.
 6. Save the Game.
+
+[Prototype #3 Wireframe .pdf](https://github.com/pandeynadia/nadia/files/4179043/Prototype.3.Wireframe.pdf)
+
 
 ## A video of the prototype in different stages being tested:
 
