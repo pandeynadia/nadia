@@ -50,7 +50,9 @@ This project intends to see if the user can interact with the game application, 
 
 ## A video of the prototype in different stages being tested:
 
-Link: https://drive.google.com/file/d/1Nfrpt2SwQr_IwWQMMwDkue0Eahb396zW/view?usp=sharing
+Link: 
+
+https://drive.google.com/a/g.ucla.edu/file/d/1HAKCIgsv8wUNdYuPEgl8uT9I47_N-0FH/view?usp=drivesdk
 
 ## A description of what I would change or design differently based on the feedback I got from the prototype testing:
 
