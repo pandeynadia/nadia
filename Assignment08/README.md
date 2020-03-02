@@ -58,7 +58,10 @@ My choice of the color scheme was made in consideration of accessibility color c
 
 ## Full Interaction Sequence:
 
+<img width="726" alt="Screen Shot 2020-03-01 at 10 47 11 PM" src="https://user-images.githubusercontent.com/59589242/75657052-36695800-5c1a-11ea-9012-9df921d6d024.png">
+
 [Full Interaction Sequence.pdf](https://github.com/pandeynadia/nadia/files/4273851/Full.Interaction.Sequence.pdf)
+
 
 ## URL Link for the Interactive Prototype below:
 
