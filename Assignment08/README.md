@@ -28,7 +28,15 @@ Piano Tiles 4 is a mobile app game designed to allow users to express freedom wh
 
 # Three features screenshots:
 
+1) Choose Playlist:
+(https://github.com/pandeynadia/nadia/files/4274066/how.to.play.pdf)
 <img width="917" alt="choos playlist" src="https://user-images.githubusercontent.com/59589242/75655610-16846500-5c17-11ea-9ad8-59ffd4179b11.png">
+
+2) How To Play: 
+<img width="1026" alt="How to Play" src="https://user-images.githubusercontent.com/59589242/75655818-85fa5480-5c17-11ea-9d04-ca90c3779a1e.png">
+
+3) Invite a Friend:
+<img width="908" alt="Invite a Friend" src="https://user-images.githubusercontent.com/59589242/75655849-94487080-5c17-11ea-8eb0-ca80b83a11b8.png">
 
 ## Description of decision making of the graphical interface design:
 
