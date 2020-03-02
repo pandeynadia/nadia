@@ -19,25 +19,15 @@ Piano Tiles 4 is a mobile app game designed to allow users to express freedom wh
 Choose Difficuty Level:
 <img width="445" alt="Screen Shot 2020-03-01 at 10 41 56 PM" src="https://user-images.githubusercontent.com/59589242/75656004-e2f60a80-5c17-11ea-96c7-a52d636f0e98.png">
 
-[Screen Shot of Design #1.pdf](https://github.com/pandeynadia/nadia/files/4273801/Screen.Shot.of.Design.1.pdf)
-
 
 Choose a Method to Invite Friends:
 <img width="434" alt="Screen Shot 2020-03-01 at 10 42 23 PM" src="https://user-images.githubusercontent.com/59589242/75656093-15076c80-5c18-11ea-8317-baf5c7518b54.png">
-
-[Screen Shot of Design #2.pdf](https://github.com/pandeynadia/nadia/files/4273802/Screen.Shot.of.Design.2.pdf)
 
 
 Type the Name You Want to Text in order to Invite a Friend:
 <img width="438" alt="Screen Shot 2020-03-01 at 10 42 43 PM" src="https://user-images.githubusercontent.com/59589242/75656192-45e7a180-5c18-11ea-9510-9ed301d99415.png">
 <img width="438" alt="Screen Shot 2020-03-01 at 10 42 51 PM" src="https://user-images.githubusercontent.com/59589242/75656196-47b16500-5c18-11ea-8f26-3efc25ecea33.png">
 <img width="437" alt="Screen Shot 2020-03-01 at 10 43 11 PM" src="https://user-images.githubusercontent.com/59589242/75656238-631c7000-5c18-11ea-9a6e-c9c484612790.png">
-
-[Screen Shot of Design #3.pdf](https://github.com/pandeynadia/nadia/files/4273803/Screen.Shot.of.Design.3.pdf)
-
-[Screen Shot of Design #4.pdf](https://github.com/pandeynadia/nadia/files/4273804/Screen.Shot.of.Design.4.pdf)
-
-[Screen Shot of Design #5.pdf](https://github.com/pandeynadia/nadia/files/4273805/Screen.Shot.of.Design.5.pdf)
 
 
 Save Game:
