@@ -1,7 +1,18 @@
-# URL Link below:
+# Description of project:
 
-[high-fidelity prototype](https://projects.invisionapp.com/prototype/ck79ncabu007awo01xud02os2/play)
+Piano Tiles 4 is a mobile app game designed to allow users to express freedom while playing the game. This idea is especially noticeable by the game giving users the choice to either invite their friends to play with them or play a solo game. This app also lets the user save their progress and choose difficulty levels, which helps ensure that the game can be played by beginners or expert gamers. The app is also designed to give the user sovereignty over their genre of playlist so that the user can relax or accommodate their current mood while playing the game. We hope that these choices not only help the user have fun in their free time but that it also helps them connect with their friends and find harmony through its composition. 
 
+## List of tasks that the interactive prototype of your system supports:
+
+1. Enter username and password.
+2. Click on How to Play.
+3. After reading the instructions, press Done.
+4. Play the Game.
+5. Save the Game.
+6. Choose from the Playlists.
+7. Invite Friends to Play.
+8. Choose Difficulty Level.
+9. Select from Previously Saved Game.
 
 ## Five representative screen designs:
 
@@ -11,7 +22,15 @@
 [Screen Shot of Design #4.pdf](https://github.com/pandeynadia/nadia/files/4273804/Screen.Shot.of.Design.4.pdf)
 [Screen Shot of Design #5.pdf](https://github.com/pandeynadia/nadia/files/4273805/Screen.Shot.of.Design.5.pdf)
 
+## ●	Description of your decision making of the graphical interface design, including the choice of the color scheme and note if you considered/checked accessibility color contrast
+
+
 ## Full Interaction Sequence:
 
+[Full Interaction Sequence.pdf](https://github.com/pandeynadia/nadia/files/4273851/Full.Interaction.Sequence.pdf)
+
+## URL Link for the Interactive Prototype below:
+
+[high-fidelity prototype](https://projects.invisionapp.com/prototype/ck79ncabu007awo01xud02os2/play)
 
 
