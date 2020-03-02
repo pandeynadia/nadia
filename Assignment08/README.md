@@ -40,7 +40,7 @@ Piano Tiles 4 is a mobile app game designed to allow users to express freedom wh
 <img width="437" alt="Screen Shot 2020-03-02 at 12 00 11 AM" src="https://user-images.githubusercontent.com/59589242/75656537-066d8500-5c19-11ea-8cb5-26ac95a078b3.png">
 <img width="438" alt="Screen Shot 2020-03-02 at 12 00 33 AM" src="https://user-images.githubusercontent.com/59589242/75656543-09687580-5c19-11ea-86c6-42da7b925532.png">
 
-# Three features screenshots:
+# Additional features screenshots with wireflow:
 
 1) Choose Playlist:
 <img width="917" alt="choos playlist" src="https://user-images.githubusercontent.com/59589242/75655610-16846500-5c17-11ea-9ad8-59ffd4179b11.png">
