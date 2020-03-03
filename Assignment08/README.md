@@ -18,27 +18,27 @@ Piano Tiles 4 is a mobile app game designed to allow users to express freedom wh
 
 ### Choose Difficuty Level:
 
-<img width="445" alt="Screen Shot 2020-03-01 at 10 41 56 PM" src="https://user-images.githubusercontent.com/59589242/75656004-e2f60a80-5c17-11ea-96c7-a52d636f0e98.png">
+<img width="300" alt="Screen Shot 2020-03-01 at 10 41 56 PM" src="https://user-images.githubusercontent.com/59589242/75656004-e2f60a80-5c17-11ea-96c7-a52d636f0e98.png">
 
 
 ### Choose a Method to Invite Friends:
 
-<img width="434" alt="Screen Shot 2020-03-01 at 10 42 23 PM" src="https://user-images.githubusercontent.com/59589242/75656093-15076c80-5c18-11ea-8317-baf5c7518b54.png">
+<img width="300" alt="Screen Shot 2020-03-01 at 10 42 23 PM" src="https://user-images.githubusercontent.com/59589242/75656093-15076c80-5c18-11ea-8317-baf5c7518b54.png">
 
 
 ### Type the Name You Want to Text in order to Invite a Friend:
 
-<img width="438" alt="Screen Shot 2020-03-01 at 10 42 43 PM" src="https://user-images.githubusercontent.com/59589242/75656192-45e7a180-5c18-11ea-9510-9ed301d99415.png">
-<img width="438" alt="Screen Shot 2020-03-01 at 10 42 51 PM" src="https://user-images.githubusercontent.com/59589242/75656196-47b16500-5c18-11ea-8f26-3efc25ecea33.png">
-<img width="437" alt="Screen Shot 2020-03-01 at 10 43 11 PM" src="https://user-images.githubusercontent.com/59589242/75656238-631c7000-5c18-11ea-9a6e-c9c484612790.png">
+<img width="200" alt="Screen Shot 2020-03-01 at 10 42 43 PM" src="https://user-images.githubusercontent.com/59589242/75656192-45e7a180-5c18-11ea-9510-9ed301d99415.png">
+<img width="200" alt="Screen Shot 2020-03-01 at 10 42 51 PM" src="https://user-images.githubusercontent.com/59589242/75656196-47b16500-5c18-11ea-8f26-3efc25ecea33.png">
+<img width="200" alt="Screen Shot 2020-03-01 at 10 43 11 PM" src="https://user-images.githubusercontent.com/59589242/75656238-631c7000-5c18-11ea-9a6e-c9c484612790.png">
 
 
 ### Save Game:
 
-<img width="442" alt="Screen Shot 2020-03-01 at 11 58 50 PM" src="https://user-images.githubusercontent.com/59589242/75656531-040b2b00-5c19-11ea-874c-e1755a1899fc.png">
-<img width="428" alt="Screen Shot 2020-03-01 at 11 59 43 PM" src="https://user-images.githubusercontent.com/59589242/75656532-04a3c180-5c19-11ea-9a2d-53a5160d47c3.png">
-<img width="437" alt="Screen Shot 2020-03-02 at 12 00 11 AM" src="https://user-images.githubusercontent.com/59589242/75656537-066d8500-5c19-11ea-8cb5-26ac95a078b3.png">
-<img width="438" alt="Screen Shot 2020-03-02 at 12 00 33 AM" src="https://user-images.githubusercontent.com/59589242/75656543-09687580-5c19-11ea-86c6-42da7b925532.png">
+<img width="300" alt="Screen Shot 2020-03-01 at 11 58 50 PM" src="https://user-images.githubusercontent.com/59589242/75656531-040b2b00-5c19-11ea-874c-e1755a1899fc.png">
+<img width="300" alt="Screen Shot 2020-03-01 at 11 59 43 PM" src="https://user-images.githubusercontent.com/59589242/75656532-04a3c180-5c19-11ea-9a2d-53a5160d47c3.png">
+<img width="300" alt="Screen Shot 2020-03-02 at 12 00 11 AM" src="https://user-images.githubusercontent.com/59589242/75656537-066d8500-5c19-11ea-8cb5-26ac95a078b3.png">
+<img width="300" alt="Screen Shot 2020-03-02 at 12 00 33 AM" src="https://user-images.githubusercontent.com/59589242/75656543-09687580-5c19-11ea-86c6-42da7b925532.png">
 
 # Additional features screenshots with wireflow:
 
