@@ -19,10 +19,10 @@ App 1 | App 2
 ![Getty.org](https://user-images.githubusercontent.com/59589242/72331666-6ca04780-366d-11ea-8c6f-9e61256d7d26.png)|![Art museum of UCLA](https://user-images.githubusercontent.com/59589242/72332481-f8ff3a00-366e-11ea-80bf-59a8b1344394.png)
 
 Usability testing video
-[![Usability Testing].(url)
 
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/view" frameborder="0" allowfullscreen="true"></iframe></figure>
+  
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
