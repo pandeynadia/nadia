@@ -63,8 +63,11 @@ My choice of the color scheme was made in consideration of accessibility color c
 [Full Interaction Sequence.pdf](https://github.com/pandeynadia/nadia/files/4273851/Full.Interaction.Sequence.pdf)
 
 
-## URL Link for the Interactive Prototype below:
+## URL Link for the Interactive Prototype BEFORE before getting feedback from user:
 
 [high-fidelity prototype](https://projects.invisionapp.com/prototype/ck79ncabu007awo01xud02os2/play)
 
 
+## 
+
+https://projects.invisionapp.com/prototype/ck79ncabu007awo01xud02os2/play
