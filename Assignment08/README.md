@@ -81,9 +81,7 @@ By reflecting the evaluation with others, I learned the different placement of n
 
 #### Changes After feedback:
 
-<img width="390" alt="Screen Shot 2020-03-02 at 10 12 23 PM" src="https://user-images.githubusercontent.com/59589242/75747924-0f229180-5cd3-11ea-8fb7-9faf623a5122.png">
-
-<img width="417" alt="Screen Shot 2020-03-02 at 10 16 11 PM" src="https://user-images.githubusercontent.com/59589242/75748066-78a2a000-5cd3-11ea-80a2-47daff4f6d7b.png">
+<img width="390" alt="Screen Shot 2020-03-02 at 10 12 23 PM" src="https://user-images.githubusercontent.com/59589242/75747924-0f229180-5cd3-11ea-8fb7-9faf623a5122.png"> <img width="417" alt="Screen Shot 2020-03-02 at 10 16 11 PM" src="https://user-images.githubusercontent.com/59589242/75748066-78a2a000-5cd3-11ea-80a2-47daff4f6d7b.png">
 
 <img width="407" alt="Screen Shot 2020-03-02 at 10 16 51 PM" src="https://user-images.githubusercontent.com/59589242/75748109-8a844300-5cd3-11ea-941c-5fd6503a3ec7.png">
 
