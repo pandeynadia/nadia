@@ -18,6 +18,8 @@ website01 | website02
 ----------|----------
 ![Getty.org](https://user-images.githubusercontent.com/59589242/72331666-6ca04780-366d-11ea-8c6f-9e61256d7d26.png)|![Art museum of UCLA](https://user-images.githubusercontent.com/59589242/72332481-f8ff3a00-366e-11ea-80bf-59a8b1344394.png)
 
+Usability testing video
+.[![Usability Testing].(url)
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
@@ -36,8 +38,9 @@ Summary statement and link to or an embedded prototype
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ## Pitch video [update the video after recording your presentation]
+(below is an html example (which works well with google drive) but you can also use markdown)
 
 <figure class="video_container">
-  <iframe src="http://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"></
+  <iframe src="url" frameborder="0" allowfullscreen="true"></iframe></figure>
 
 ## Conclusion: what you learned throughout the process?
