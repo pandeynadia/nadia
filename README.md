@@ -21,7 +21,8 @@ App 1 | App 2
 Usability testing video
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/view" frameborder="0" allowfullscreen="true"></iframe></figure>
+  [iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/view" frameborder="0" allowfullscreen="true"></iframe></figure]
+  
   
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
