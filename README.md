@@ -12,14 +12,17 @@ What do you want to solve and how did you do it?
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-[read more....](https://github.com/pandeynadia/nadia/tree/master/assignment01)
+My motivation for picking this gaming app is that I am passionate about simple phone games, which a user can play to pass time or for fun. In many ways, games can be therapeutic for the gamer. However, a game that is not user friendly can instead frustrate the player and ruin the reputation of that game. I picked this game in particular because it was very fun for me to play once I got used to it, learned its methods and controls through trial and error, but the beginning of this game frustrated me because it is not user friendly for new gamers. I believe changing and fixing a few features in this app could make this game not only fun but addicting. [read more....](https://github.com/pandeynadia/nadia/tree/master/assignment01)
 
-website01 | website02
+App 1 | App 2
 ----------|----------
 ![Getty.org](https://user-images.githubusercontent.com/59589242/72331666-6ca04780-366d-11ea-8c6f-9e61256d7d26.png)|![Art museum of UCLA](https://user-images.githubusercontent.com/59589242/72332481-f8ff3a00-366e-11ea-80bf-59a8b1344394.png)
 
 Usability testing video
-.[![Usability Testing].(url)
+[![Usability Testing].(url)
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/view" frameborder="0" allowfullscreen="true"></iframe></figure>
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
@@ -41,6 +44,6 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 (below is an html example (which works well with google drive) but you can also use markdown)
 
 <figure class="video_container">
-  <iframe src="url" frameborder="0" allowfullscreen="true"></iframe></figure>
+  <iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/view" frameborder="0" allowfullscreen="true"></iframe></figure>
 
 ## Conclusion: what you learned throughout the process?
