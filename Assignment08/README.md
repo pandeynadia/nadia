@@ -18,12 +18,24 @@ Piano Tiles 4 is a mobile app game designed to allow users to express freedom wh
 
 ### Choose Difficuty Level:
 
+#### Before feedback:
+
 <img width="445" alt="Screen Shot 2020-03-01 at 10 41 56 PM" src="https://user-images.githubusercontent.com/59589242/75656004-e2f60a80-5c17-11ea-96c7-a52d636f0e98.png">
+
+#### After feedback:
+
+<img width="390" alt="Screen Shot 2020-03-02 at 10 12 23 PM" src="https://user-images.githubusercontent.com/59589242/75747924-0f229180-5cd3-11ea-8fb7-9faf623a5122.png">
 
 
 ### Choose a Method to Invite Friends:
 
+#### Before feedback:
+
 <img width="434" alt="Screen Shot 2020-03-01 at 10 42 23 PM" src="https://user-images.githubusercontent.com/59589242/75656093-15076c80-5c18-11ea-8317-baf5c7518b54.png">
+
+#### After feedback:
+
+
 
 
 ### Type the Name You Want to Text in order to Invite a Friend:
