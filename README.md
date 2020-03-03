@@ -43,7 +43,6 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 ## Pitch video [update the video after recording your presentation]
 (below is an html example (which works well with google drive) but you can also use markdown)
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/view" frameborder="0" allowfullscreen="true"></iframe></figure>
+<iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/preview" width="640" height="480"></iframe>
 
 ## Conclusion: what you learned throughout the process?
