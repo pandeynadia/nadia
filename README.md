@@ -37,5 +37,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ## Pitch video [update the video after recording your presentation]
 
+<gigure class="video_container">
+  <iframe src="http://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"></
 
 ## Conclusion: what you learned throughout the process?
