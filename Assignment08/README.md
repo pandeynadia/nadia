@@ -18,24 +18,12 @@ Piano Tiles 4 is a mobile app game designed to allow users to express freedom wh
 
 ### Choose Difficuty Level:
 
-#### Before feedback:
-
 <img width="445" alt="Screen Shot 2020-03-01 at 10 41 56 PM" src="https://user-images.githubusercontent.com/59589242/75656004-e2f60a80-5c17-11ea-96c7-a52d636f0e98.png">
-
-#### After feedback:
-
-<img width="390" alt="Screen Shot 2020-03-02 at 10 12 23 PM" src="https://user-images.githubusercontent.com/59589242/75747924-0f229180-5cd3-11ea-8fb7-9faf623a5122.png">
 
 
 ### Choose a Method to Invite Friends:
 
-#### Before feedback:
-
 <img width="434" alt="Screen Shot 2020-03-01 at 10 42 23 PM" src="https://user-images.githubusercontent.com/59589242/75656093-15076c80-5c18-11ea-8317-baf5c7518b54.png">
-
-#### After feedback:
-
-
 
 
 ### Type the Name You Want to Text in order to Invite a Friend:
@@ -88,4 +76,26 @@ https://drive.google.com/file/d/1DPjvP7KXz-Ol0PMPy4vqrcLc1MFwv8ch/view?usp=shari
 ## What I learned and changed from the feedback:
 
 By reflecting the evaluation with others, I learned the different placement of navigation menu made it confusing for the user to act quickly as he had to search around the screen to see where main menu is. The user also pressed the quit game button when I asked him to go on the home screen. The new changes I have made to fix these issues are to move the “home” icon on the bottom of the screen along with the saved game and quit game button. I also labeled all three of these icons in order to ensure that the user is never confused about what these buttons do. The user seemed to seamlessly navigate around the menu otherwise and when I asked him to do the tasks (5 tasks: find how to play the game, choose difficulty level, choose playlist, invite friends, and save game) the user had no problem playing the game I intended it. With the new improvements I have made to the game, I am hopeful that the user will like playing the game even more seamlessly.
+
+
+
+#### Changes After feedback:
+
+<img width="390" alt="Screen Shot 2020-03-02 at 10 12 23 PM" src="https://user-images.githubusercontent.com/59589242/75747924-0f229180-5cd3-11ea-8fb7-9faf623a5122.png">
+
+<img width="417" alt="Screen Shot 2020-03-02 at 10 16 11 PM" src="https://user-images.githubusercontent.com/59589242/75748066-78a2a000-5cd3-11ea-80a2-47daff4f6d7b.png">
+
+<img width="407" alt="Screen Shot 2020-03-02 at 10 16 51 PM" src="https://user-images.githubusercontent.com/59589242/75748109-8a844300-5cd3-11ea-941c-5fd6503a3ec7.png">
+
+<img width="392" alt="Screen Shot 2020-03-02 at 10 17 39 PM" src="https://user-images.githubusercontent.com/59589242/75748188-a8ea3e80-5cd3-11ea-9271-03c90b71fd6e.png">
+
+<img width="401" alt="Screen Shot 2020-03-02 at 10 18 09 PM" src="https://user-images.githubusercontent.com/59589242/75748209-b9021e00-5cd3-11ea-8459-bf2d03275ff4.png">
+
+<img width="398" alt="Screen Shot 2020-03-02 at 10 18 34 PM" src="https://user-images.githubusercontent.com/59589242/75748231-c61f0d00-5cd3-11ea-9892-67a9e645291f.png">
+
+<img width="472" alt="Screen Shot 2020-03-02 at 10 19 02 PM" src="https://user-images.githubusercontent.com/59589242/75748263-dafba080-5cd3-11ea-8e90-2f81c601ad23.png">
+
+<img width="409" alt="Screen Shot 2020-03-02 at 10 19 42 PM" src="https://user-images.githubusercontent.com/59589242/75748286-f23a8e00-5cd3-11ea-8046-23ab151b011f.png">
+
+<img width="416" alt="Screen Shot 2020-03-02 at 10 20 13 PM" src="https://user-images.githubusercontent.com/59589242/75748310-04b4c780-5cd4-11ea-84a1-8c6d689391fa.png">
 
