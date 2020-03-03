@@ -12,11 +12,11 @@ What do you want to solve and how did you do it?
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
-(read more) https://github.com/pandeynadia/nadia/tree/master/assignment01
+[read more....](https://github.com/pandeynadia/nadia/tree/master/assignment01)
 
 website01 | website02
-__________|____________
-![Getty.org](https://user-images.githubusercontent.com/59589242/72331666-6ca04780-366d-11ea-8c6f-9e61256d7d26.png) | ![Art museum of UCLA](https://user-images.githubusercontent.com/59589242/72332481-f8ff3a00-366e-11ea-80bf-59a8b1344394.png)
+----------|----------
+![Getty.org](https://user-images.githubusercontent.com/59589242/72331666-6ca04780-366d-11ea-8c6f-9e61256d7d26.png)|![Art museum of UCLA](https://user-images.githubusercontent.com/59589242/72332481-f8ff3a00-366e-11ea-80bf-59a8b1344394.png)
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
