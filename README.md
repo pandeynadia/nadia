@@ -23,6 +23,8 @@ Usability testing video
 <figure class="video_container">
   [iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/view" frameborder="0" allowfullscreen="true"></iframe></figure]
   
+ <iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/preview" width="640" height="480"></iframe>
+  
   
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
@@ -42,7 +44,7 @@ Summary statement and link to or an embedded prototype
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ## Pitch video [update the video after recording your presentation]
-(below is an html example (which works well with google drive) but you can also use markdown)
+
 
 <iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/preview" width="640" height="480"></iframe>
 
