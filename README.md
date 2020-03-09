@@ -32,9 +32,8 @@ The main activity for this project is to see what makes the user download specif
 
 Persona 1 | Persona 2 | Persona 3
 ----------|----------|----------
-
-<img width="616" alt="Persona1" src="https://user-images.githubusercontent.com/59589242/76195655-084dc000-61a6-11ea-94c0-edf73124e8d0.png"><img width="601" alt="Screen Shot 2020-03-09 at 12 23 46 AM" src="https://user-images.githubusercontent.com/59589242/76195673-11d72800-61a6-11ea-89bc-f285407edaef.png">|<img width="592" alt="Screen Shot 2020-03-09 at 1 45 14 AM" src="https://user-images.githubusercontent.com/59589242/76196539-a7bf8280-61a7-11ea-8f69-b75fe3c73c8b.png">
-<img width="602" alt="Screen Shot 2020-03-09 at 12 24 07 AM" src="https://user-images.githubusercontent.com/59589242/76196571-b148ea80-61a7-11ea-85ee-ef925c06397f.png">|
+<img width="700" alt="Persona1" src="https://user-images.githubusercontent.com/59589242/76195655-084dc000-61a6-11ea-94c0-edf73124e8d0.png"><img width="700" alt="Screen Shot 2020-03-09 at 12 23 46 AM" src="https://user-images.githubusercontent.com/59589242/76195673-11d72800-61a6-11ea-89bc-f285407edaef.png">|<img width="700" alt="Screen Shot 2020-03-09 at 1 45 14 AM" src="https://user-images.githubusercontent.com/59589242/76196539-a7bf8280-61a7-11ea-8f69-b75fe3c73c8b.png">
+<img width="700" alt="Screen Shot 2020-03-09 at 12 24 07 AM" src="https://user-images.githubusercontent.com/59589242/76196571-b148ea80-61a7-11ea-85ee-ef925c06397f.png">|
 Summary and link to your assignment folder 
 
 [read more...](https://github.com/pandeynadia/nadia/tree/master/Assignment05:%20Persona%2BScenarios)
