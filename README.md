@@ -20,7 +20,7 @@ Usability Testing (UT) can inform the effectiveness, efficiency and satisfaction
 
 During the pilot test, I learned the frustrations a user can experience while using the app. As stated in the heuristic evaluation, the app seemed more suitable for expert gamers. This hypothesis was confirmed during the Usability Testing as the user had to rely on his instincts and was confused about how to play the game. The user also did not like the amount of advertisements the game forces a player to watch. While it is true that the game is free and advertisement is a way for the creators to earn income for their hard work, excessive advertisements only take away from the game as the user in this pilot testing was more than willing to exit the app and find another game. The instructions on how to play were also very hard to read as the screen automatically changes after 5 seconds or less. I believe that the game itself, once the user figured out how to play it, was entertaining, but all the poor design choices of not having a help button, save button, pause button and the excessive advertisements as previously discussed took away from the fun of the game. The pilot testing went well as the user spoke aloud every thought he had during the test. He told me what would have worked better during the test and what was helpful for him. I asked him if he had any questions about what we were doing and he asked me for clarification while conducting the test. [read more...](https://github.com/pandeynadia/nadia/tree/master/assignment02)
 
-Usability testing video
+##### Usability testing video
   
 <iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/preview" width="640" height="480"></iframe>
   
@@ -41,20 +41,20 @@ Summary and link to the sketches (may contains the multiple versions and evaluat
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Piano Tiles 4 is a mobile app game designed to allow users to express freedom while playing the game. This idea is especially noticeable by the game giving users the choice to either invite their friends to play with them or play a solo game. This app also lets the user save their progress and choose difficulty levels, which helps ensure that the game can be played by beginners or expert gamers. The app is also designed to give the user sovereignty over their genre of playlist so that the user can relax or accommodate their current mood while playing the game. We hope that these choices not only help the user have fun in their free time but that it also helps them connect with their friends and find harmony through its composition.[read more about my prototype...](https://github.com/pandeynadia/nadia/tree/master/Assignment08)
 
-Choose Playlist:
+##### Choose Playlist:
 <img width="917" alt="choos playlist" src="https://user-images.githubusercontent.com/59589242/75655610-16846500-5c17-11ea-9ad8-59ffd4179b11.png">
 
-How To Play: 
+##### How To Play: 
 <img width="1026" alt="How to Play" src="https://user-images.githubusercontent.com/59589242/75655818-85fa5480-5c17-11ea-9d04-ca90c3779a1e.png">
 
-Invite a Friend:
+##### Invite a Friend:
 <img width="908" alt="Invite a Friend" src="https://user-images.githubusercontent.com/59589242/75655849-94487080-5c17-11ea-8eb0-ca80b83a11b8.png">
 
 [Click me to see my prototype live!](https://projects.invisionapp.com/prototype/HighFiPrototype-Nadia-Pandey-ck79ncabu007awo01xud02os2/play/e54f7d00) 
 
 ## Evaluation and Revision History: 
 
-User Testing the Prototype Video:
+##### User Testing the Prototype Video:
 
 <iframe src="https://drive.google.com/file/d/1DPjvP7KXz-Ol0PMPy4vqrcLc1MFwv8ch/preview" width="640" height="480"></iframe>
 
