@@ -42,10 +42,7 @@ The purpose of this low fidelity prototype is to see if the user can interact wi
 
 Prototype 1 | Prototype 2 | Prototype 3
 ----------|----------|-----------
-!<img width="1152" alt="Wireflow#1" src="https://user-images.githubusercontent.com/59589242/76190868-41ccfe00-619b-11ea-99c9-668bcaa2cd91.png">|!<img width="1131" alt="Wireflow#2" src="https://user-images.githubusercontent.com/59589242/76190875-45f91b80-619b-11ea-842c-773829ddaa2b.png">|<img width="1071" alt="Wireflow#3" src="https://user-images.githubusercontent.com/59589242/76190879-485b7580-619b-11ea-814e-d89337833a6b.png">
-
-[Prototype#1 Wireframe.pdf](https://github.com/pandeynadia/nadia/files/4305060/Prototype.1.Wireframe.pdf)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+<img width="1152" alt="Wireflow#1" src="https://user-images.githubusercontent.com/59589242/76190868-41ccfe00-619b-11ea-99c9-668bcaa2cd91.png">|<img width="1131" alt="Wireflow#2" src="https://user-images.githubusercontent.com/59589242/76190875-45f91b80-619b-11ea-842c-773829ddaa2b.png">|<img width="1071" alt="Wireflow#3" src="https://user-images.githubusercontent.com/59589242/76190879-485b7580-619b-11ea-814e-d89337833a6b.png">
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Piano Tiles 4 is a mobile app game designed to allow users to express freedom while playing the game. This idea is especially noticeable by the game giving users the choice to either invite their friends to play with them or play a solo game. This app also lets the user save their progress and choose difficulty levels, which helps ensure that the game can be played by beginners or expert gamers. The app is also designed to give the user sovereignty over their genre of playlist so that the user can relax or accommodate their current mood while playing the game. We hope that these choices not only help the user have fun in their free time but that it also helps them connect with their friends and find harmony through its composition. [Read More About my Prototype...](https://github.com/pandeynadia/nadia/tree/master/Assignment08)
