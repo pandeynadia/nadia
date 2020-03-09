@@ -25,8 +25,8 @@ Usability testing video
 <iframe src="https://drive.google.com/file/d/1qA_br4APqlevFhHUgeL1-BbHWQROUznY/preview" width="640" height="480"></iframe>
   
   
-## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+## User research [Contextual Inquiry]:
+The main activity for this project is to see what makes the user download specific apps and what they look for while playing it so that I can build a game app for games that speak to the game's needs and desires. The basic need involved for this activity is a phone, a comfortable living room space of the user so that they feel relaxed while playing the game, and a phone where they can download the game. Traditionally, gamers have had to play a video game on devices such as Xbox or other similar devices where they are stuck in once place and do not have as much mobility due to the wires. With digital technology, they are able to play similar games to those on Xbox right on their phone. This means that they are no longer restricted on where to sit, but they have more mobility. The user must be from a game community. I prefer the user to have certain knowledge that would make them understand what they like or do not like in a game so that we understand what a game that speaks to the users’ needs looks like. The user would do the activity in their living room where they are comfortable and are able to play the game without being nervous or second guessing. Doing this activity in the living room will also tell us how a user is using a product in their own environment. The user will go to the application store where they will pick and download games they like on the phone that is provided to them. When I say phrases such as “show me,” or “tell me about,” the user will play the “Master” role and inform me on the game and its usability. [read more...](https://github.com/pandeynadia/nadia/tree/master/assignment04)
 
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
