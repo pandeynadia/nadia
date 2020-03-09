@@ -5,7 +5,7 @@
 Piano Tiles 4 is a mobile game app designed to enhance the experience of both new and experienced gamers alike. The motivation behind this project is to help game applications be easy to use for everyday users. I am passionate about simply desined phone games, which a user can play to pass time or for fun. In many ways, games can be therapeutic for gamers. However, a game that is not user friendly can instead frustrate the player and ruin the reputation of that game. 
 
 ## Design statement: 
-My project focuses on user accessibility for three main features I want to improve in application. Even though this game is fun, when a game is inaccessible to users, the game can become fustrating and even uninteresting. One of the issues I found that was fustrating for me was that there was no "How to Play" the game button. It is important to resolve this issue because without a help button, the user can get too fustrated to want to play the game, which makes the game lose almost all its value. I will solve this issue by adding a "how to play" button on the homescreen and having a "Home" button on every screen, which gives them accessiblity. Another feature that the game does not have was giving the user a choice when it comes to picking their playlist while they are playing the game. Instead the game assumes what the user will like and dislike. Most individuals are picky about what genre of music they want to listen to or not. Forcing users to listen to a certain type of song that they do not like can irritate them. To fix this issue, I make a "Pick a Playlist" button that allows users to pick their genre of music. This feature will also help them play their songs while being offline since the music automatically comes with the game. Finally, many gamers want to save their progress when exiting the app. The game does not offer any "save" feature so I have not only included it to solve this issue, but I have added 5 slots to save games just in case a user gives the phone to their siblings or children to play the game. I believe changing and fixing a few features in this app could make this game not only fun but addicting.
+My project focuses on user accessibility for three main features I want to improve in application. Even though this game is fun, when a game is inaccessible to users, the game can become fustrating and even uninteresting. One of the issues I found that was fustrating for me was that there was no "How to Play" the game button. It is important to resolve this issue because without a help button, the user can get too fustrated to want to play the game, which makes the game lose almost all its value. I will solve this issue by adding a "how to play" button on the homescreen and having a "Home" button on every screen, which gives them accessiblity. Another feature that the game does not have was giving the user a choice when it comes to picking their playlist while they are playing the game. Instead the game assumes what the user will like and dislike. Most individuals are picky about what genre of music they want to listen to or not. Forcing users to listen to a certain type of song that they do not like can irritate them. To fix this issue, I make a "Pick a Playlist" button that allows users to pick their genre of music. This feature will also help them play their songs while being offline since the music automatically comes with the game. Finally, many gamers want to save their progress when exiting the app. The game does not offer any option for the user to play with others. To solve this issue, I added a "Invite a Friend" feature which lets users play split screen so that they can pay with their friends. I believe changing and fixing a few features in this app could make this game not only fun but addicting.
 
 ## Competitor analysis:
 ### Heuristic Evaluation: 
@@ -39,10 +39,32 @@ Summary and link to your assignment folder
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+Piano Tiles 4 is a mobile app game designed to allow users to express freedom while playing the game. This idea is especially noticeable by the game giving users the choice to either invite their friends to play with them or play a solo game. This app also lets the user save their progress and choose difficulty levels, which helps ensure that the game can be played by beginners or expert gamers. The app is also designed to give the user sovereignty over their genre of playlist so that the user can relax or accommodate their current mood while playing the game. We hope that these choices not only help the user have fun in their free time but that it also helps them connect with their friends and find harmony through its composition.[read more about my prototype...](https://github.com/pandeynadia/nadia/tree/master/Assignment08)
 
-## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+Choose Playlist:
+<img width="917" alt="choos playlist" src="https://user-images.githubusercontent.com/59589242/75655610-16846500-5c17-11ea-9ad8-59ffd4179b11.png">
+
+How To Play: 
+<img width="1026" alt="How to Play" src="https://user-images.githubusercontent.com/59589242/75655818-85fa5480-5c17-11ea-9d04-ca90c3779a1e.png">
+
+Invite a Friend:
+<img width="908" alt="Invite a Friend" src="https://user-images.githubusercontent.com/59589242/75655849-94487080-5c17-11ea-8eb0-ca80b83a11b8.png">
+
+[Click me to see my prototype live!](https://projects.invisionapp.com/prototype/HighFiPrototype-Nadia-Pandey-ck79ncabu007awo01xud02os2/play/e54f7d00) 
+
+## Evaluation and Revision History: 
+
+User Testing the Prototype Video:
+
+<iframe src="https://drive.google.com/file/d/1DPjvP7KXz-Ol0PMPy4vqrcLc1MFwv8ch/preview" width="640" height="480"></iframe>
+
+### What I learned and changed from the feedback:
+
+By reflecting the evaluation with others, I learned the different placement of navigation menu made it confusing for the user to act quickly as he had to search around the screen to see where main menu is. The user also pressed the quit game button when I asked him to go on the home screen. The new changes I have made to fix these issues are to move the “home” icon on the bottom of the screen along with the saved game and quit game button. I also labeled all three of these icons in order to ensure that the user is never confused about what these buttons do. The user seemed to seamlessly navigate around the menu otherwise and when I asked him to do the tasks (5 tasks: find how to play the game, choose difficulty level, choose playlist, invite friends, and save game) the user had no problem playing the game I intended it. With the new improvements I have made to the game, I am hopeful that the user will like playing the game even more seamlessly.
+
+#### Changes After feedback:
+
+<img width="200" alt="Screen Shot 2020-03-02 at 10 12 23 PM" src="https://user-images.githubusercontent.com/59589242/75747924-0f229180-5cd3-11ea-8fb7-9faf623a5122.png"> <img width="214" alt="Screen Shot 2020-03-02 at 10 16 11 PM" src="https://user-images.githubusercontent.com/59589242/75748066-78a2a000-5cd3-11ea-80a2-47daff4f6d7b.png"> <img width="214" alt="Screen Shot 2020-03-02 at 10 16 51 PM" src="https://user-images.githubusercontent.com/59589242/75748109-8a844300-5cd3-11ea-941c-5fd6503a3ec7.png"> <img width="200" alt="Screen Shot 2020-03-02 at 10 17 39 PM" src="https://user-images.githubusercontent.com/59589242/75748188-a8ea3e80-5cd3-11ea-9271-03c90b71fd6e.png"> <img width="200" alt="Screen Shot 2020-03-02 at 10 18 09 PM" src="https://user-images.githubusercontent.com/59589242/75748209-b9021e00-5cd3-11ea-8459-bf2d03275ff4.png"> <img width="200" alt="Screen Shot 2020-03-02 at 10 18 34 PM" src="https://user-images.githubusercontent.com/59589242/75748231-c61f0d00-5cd3-11ea-9892-67a9e645291f.png"> <img width="230" alt="Screen Shot 2020-03-02 at 10 19 02 PM" src="https://user-images.githubusercontent.com/59589242/75748263-dafba080-5cd3-11ea-8e90-2f81c601ad23.png"> <img width="200" alt="Screen Shot 2020-03-02 at 10 19 42 PM" src="https://user-images.githubusercontent.com/59589242/75748286-f23a8e00-5cd3-11ea-8046-23ab151b011f.png"> <img width="200" alt="Screen Shot 2020-03-02 at 10 20 13 PM" src="https://user-images.githubusercontent.com/59589242/75748310-04b4c780-5cd4-11ea-84a1-8c6d689391fa.png">
 
 ## Pitch video [update the video after recording your presentation]
 
