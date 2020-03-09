@@ -11,7 +11,7 @@ My project focuses on user accessibility for three main features I want to impro
 ### Heuristic Evaluation: 
 For my evalution, I focused on two different communities: gaming and music. Even though Piano Tiles 4 has a music feature, I evaluated another app called Music Playlist & TubeMate Audio Player because it caught my attention with its cost-free feature and its categorized section where I can choose which type of music I want to listen to, such as, action, adventure, animation etc. However, just like Piano Tiles 4, this app disappointed me by not letting me pick my own songs. In the end I chose to keep Piano Tiles 4 as my project because I was more fustrated by this app and saw features that could be easily fixed, which could make this game great to play. The Piano Tiles 4 game is simple: the user clicks rectangular boxes consistently while music plays and the speed of the boxes get faster with time. Overall, the game is very fun to play ones the user acquires the skills needed to play the game, but due to the lack of direction or help tools, the game is only intended for expert gamers. [read more....](https://github.com/pandeynadia/nadia/tree/master/assignment01)
 
-App 1 | App 2
+App 1: Piano Tiles 4 | App 2: Music Playlist & TubeMate Audio Player
 ----------|----------
 ![Getty.org](https://user-images.githubusercontent.com/59589242/72331666-6ca04780-366d-11ea-8c6f-9e61256d7d26.png)|![Art museum of UCLA](https://user-images.githubusercontent.com/59589242/72332481-f8ff3a00-366e-11ea-80bf-59a8b1344394.png)
 
