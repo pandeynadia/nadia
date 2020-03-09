@@ -33,16 +33,20 @@ Summary and link to your assignment folder
 
 [read more...](https://github.com/pandeynadia/nadia/tree/master/Assignment05:%20Persona%2BScenarios)
 
-## Wireframe and graphic design element variation [assignment07 + part of 08]
+## Wireframe and Graphic Design Element Variation:
+##### Wireframe:
+
+
+These initial sketches demonstrate three key app features after the user signs up (or logs in if they don't have an account) in the game. After entering their username and password, the user can go to the homescreen where they can find the feature "How to Play" the game. They have the option to play the game after they are done reading the screen. The user can also choose their playlist. This gives them more freedom with their app and personalizes the game. Lastly, the user can Invite a Friend to play with them. This feature is especailly helpful for college student gamers who are looking for a way to connect with other individuals but are too shy to take part in college clubs.
 
 ## Low-fidelity Prototype:
-The purpose of this low fidelity prototype is to see if the user can interact with the game application, "PianoTiltes4" by creating a paper protoype and testing it with another individual to see if they can follow the steps with ease or if there are further errors that need to be fixed. I have put together three personas, each of which cover a feature of the game. I have written an ideal situation with a goal for each persona, their needs, context, behavior, and stories. I have also included the wireframe flow of me doing it and one of the users testing it to see if they can follow my thought process. [Read More](https://github.com/pandeynadia/nadia/tree/master/Assignment%2006-%20LowFiPrototype)
-
 ##### Initial Sketches:
 
 Prototype 1 | Prototype 2 | Prototype 3
 ----------|----------|-----------
 <img width="1152" alt="Wireflow#1" src="https://user-images.githubusercontent.com/59589242/76190868-41ccfe00-619b-11ea-99c9-668bcaa2cd91.png">|<img width="1131" alt="Wireflow#2" src="https://user-images.githubusercontent.com/59589242/76190875-45f91b80-619b-11ea-842c-773829ddaa2b.png">|<img width="1071" alt="Wireflow#3" src="https://user-images.githubusercontent.com/59589242/76190879-485b7580-619b-11ea-814e-d89337833a6b.png">
+
+The purpose of this low fidelity prototype is to see if the user can interact with the game application, "PianoTiltes4" by creating a paper protoype and testing it with another individual to see if they can follow the steps with ease or if there are further errors that need to be fixed. I have put together three personas, each of which cover a feature of the game. I have written an ideal situation with a goal for each persona, their needs, context, behavior, and stories. I have also included the wireframe flow of me doing it and one of the users testing it to see if they can follow my thought process. [Read More](https://github.com/pandeynadia/nadia/tree/master/Assignment%2006-%20LowFiPrototype)
 
 ## High-fidelity Prototype:
 Piano Tiles 4 is a mobile app game designed to allow users to express freedom while playing the game. This idea is especially noticeable by the game giving users the choice to either invite their friends to play with them or play a solo game. This app also lets the user save their progress and choose difficulty levels, which helps ensure that the game can be played by beginners or expert gamers. The app is also designed to give the user sovereignty over their genre of playlist so that the user can relax or accommodate their current mood while playing the game. We hope that these choices not only help the user have fun in their free time but that it also helps them connect with their friends and find harmony through its composition. [Read More About my Prototype...](https://github.com/pandeynadia/nadia/tree/master/Assignment08)
