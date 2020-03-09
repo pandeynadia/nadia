@@ -1,13 +1,11 @@
 # Piano Tiles 4 Game 
 ## DH150 UX Design, Nadia Pandey
 
-## What is the Piano Tiles 4 Game about?
-What is the project about? The motivation of the project and possible contribution.
-i.e.: This project involves the mobile app user experience design for the community with the similar aesthetical taste. 
+## Introduction: What is Piano Tiles 4?
+Piano Tiles 4 is a mobile game app designed to enhance the experience of both new and experienced gamers alike. The motivation behind this project is to help game applications be easy to use for everyday users. I am passionate about simply desined phone games, which a user can play to pass time or for fun. In many ways, games can be therapeutic for gamers. However, a game that is not user friendly can instead frustrate the player and ruin the reputation of that game. 
 
-## Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
-What do you want to solve and how did you do it?
+## Design statement: 
+My project focuses on user accessibility for three main features I want to improve in application. Even though this game is fun, when a game is inaccessible to users, the game can become fustrating and even uninteresting. One of the issues I found that was fustrating for me was that there was no "How to Play" the game button. It is important to resolve this issue because without a help button, the user can get too fustrated to want to play the game, which makes the game lose almost all its value. I will solve this issue by adding a "how to play" button on the homescreen and having a "Home" button on every screen, which gives them accessiblity. Another feature that the game does not have was giving the user a choice when it comes to picking their playlist while they are playing the game. Instead the game assumes what the user will like and dislike. Most individuals are picky about what genre of music they want to listen to or not. Forcing users to listen to a certain type of song that they do not like can irritate them. To fix this issue, I make a "Pick a Playlist" button that allows users to pick their genre of music. This feature will also help them play their songs while being offline since the music automatically comes with the game. Finally, many gamers want to save their progress when exiting the app. The game does not offer any "save" feature so I have not only included it to solve this issue, but I have added 5 slots to save games just in case a user gives the phone to their siblings or children to play the game. I believe changing and fixing a few features in this app could make this game not only fun but addicting.
 
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
