@@ -13,7 +13,7 @@ For my evalution, I focused on two different communities: gaming and music. Even
 
 App 1: Piano Tiles 4 | App 2: Music Playlist & TubeMate Audio Player
 ----------|----------
-![Getty.org](https://user-images.githubusercontent.com/59589242/72331666-6ca04780-366d-11ea-8c6f-9e61256d7d26.png)|![Art museum of UCLA](https://user-images.githubusercontent.com/59589242/72332481-f8ff3a00-366e-11ea-80bf-59a8b1344394.png)
+![Piano Tiles 4](https://user-images.githubusercontent.com/59589242/72331666-6ca04780-366d-11ea-8c6f-9e61256d7d26.png)|![Music Playlist & TubeMate Audio Player](https://user-images.githubusercontent.com/59589242/72332481-f8ff3a00-366e-11ea-80bf-59a8b1344394.png)
 
 Usability testing video
   
