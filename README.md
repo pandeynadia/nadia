@@ -36,10 +36,19 @@ Summary and link to your assignment folder
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
 ## Low-fidelity prototype (wireflow, assignment07)
+The purpose of this low fidelity prototype is to see if the user can interact with the game application, "PianoTiltes4" by creating a paper protoype and testing it with another individual to see if they can follow the steps with ease or if there are further errors that need to be fixed. I have put together three personas, each of which cover a feature of the game. I have written an ideal situation with a goal for each persona, their needs, context, behavior, and stories. I have also included the wireframe flow of me doing it and one of the users testing it to see if they can follow my thought process. [Read More](https://github.com/pandeynadia/nadia/tree/master/Assignment%2006-%20LowFiPrototype)
+
+##### Initial Sketches:
+
+Prototype 1 | Prototype 2 | Prototype 3
+----------|----------|-----------
+![Prototype#1 Wireframe.pdf](https://github.com/pandeynadia/nadia/files/4305060/Prototype.1.Wireframe.pdf)|![Prototype #2 Wireframe.pdf](https://github.com/pandeynadia/nadia/files/4305063/Prototype.2.Wireframe.pdf)|[Prototype #3 Wireframe .pdf](https://github.com/pandeynadia/nadia/files/4305064/Prototype.3.Wireframe.pdf)
+
+[Prototype#1 Wireframe.pdf](https://github.com/pandeynadia/nadia/files/4305060/Prototype.1.Wireframe.pdf)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Piano Tiles 4 is a mobile app game designed to allow users to express freedom while playing the game. This idea is especially noticeable by the game giving users the choice to either invite their friends to play with them or play a solo game. This app also lets the user save their progress and choose difficulty levels, which helps ensure that the game can be played by beginners or expert gamers. The app is also designed to give the user sovereignty over their genre of playlist so that the user can relax or accommodate their current mood while playing the game. We hope that these choices not only help the user have fun in their free time but that it also helps them connect with their friends and find harmony through its composition.[read more about my prototype...](https://github.com/pandeynadia/nadia/tree/master/Assignment08)
+Piano Tiles 4 is a mobile app game designed to allow users to express freedom while playing the game. This idea is especially noticeable by the game giving users the choice to either invite their friends to play with them or play a solo game. This app also lets the user save their progress and choose difficulty levels, which helps ensure that the game can be played by beginners or expert gamers. The app is also designed to give the user sovereignty over their genre of playlist so that the user can relax or accommodate their current mood while playing the game. We hope that these choices not only help the user have fun in their free time but that it also helps them connect with their friends and find harmony through its composition. [Read More About my Prototype...](https://github.com/pandeynadia/nadia/tree/master/Assignment08)
 
 ##### Choose Playlist:
 <img width="917" alt="choos playlist" src="https://user-images.githubusercontent.com/59589242/75655610-16846500-5c17-11ea-9ad8-59ffd4179b11.png">
