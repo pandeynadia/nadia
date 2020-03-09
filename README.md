@@ -36,6 +36,7 @@ Summary and link to your assignment folder
 ## Wireframe and Graphic Design Element Variation:
 ##### Wireframe:
 
+<img width="1136" alt="All3Wireframe" src="https://user-images.githubusercontent.com/59589242/76192746-cb7eca80-619f-11ea-8248-2a76e2f93b8e.png">
 
 These initial sketches demonstrate three key app features after the user signs up (or logs in if they don't have an account) in the game. After entering their username and password, the user can go to the homescreen where they can find the feature "How to Play" the game. They have the option to play the game after they are done reading the screen. The user can also choose their playlist. This gives them more freedom with their app and personalizes the game. Lastly, the user can Invite a Friend to play with them. This feature is especailly helpful for college student gamers who are looking for a way to connect with other individuals but are too shy to take part in college clubs.
 
