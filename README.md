@@ -96,7 +96,11 @@ By reflecting on the evaluation with others, I learned the different placement o
 ##### Clear way to save a new game:
 <img width="230" alt="Screen Shot 2020-03-02 at 10 19 02 PM" src="https://user-images.githubusercontent.com/59589242/75748263-dafba080-5cd3-11ea-8e90-2f81c601ad23.png"> <img width="200" alt="Screen Shot 2020-03-02 at 10 19 42 PM" src="https://user-images.githubusercontent.com/59589242/75748286-f23a8e00-5cd3-11ea-8046-23ab151b011f.png"> <img width="200" alt="Screen Shot 2020-03-02 at 10 20 13 PM" src="https://user-images.githubusercontent.com/59589242/75748310-04b4c780-5cd4-11ea-84a1-8c6d689391fa.png"> 
 
-## Pitch video [update the video after recording your presentation]
+## Pitch video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YgHNDlf-jKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## Conclusion: what you learned throughout the process?
 
