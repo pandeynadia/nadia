@@ -56,6 +56,8 @@ The purpose of this low fidelity prototype is to see if the user can interact wi
 ## High-fidelity Prototype:
 Piano Tiles 4 is a mobile app game designed to allow users to express freedom while playing the game. This idea is especially noticeable by the game, giving users a choice to either invite their friends to play with them or play a solo game. This app also lets the user save their progress and choose difficulty levels, which helps ensure that beginners or expert gamers can play the game. The app is also designed to give the user sovereignty over their genre of the playlist so that the user can relax or accommodate their current mood while playing the game. We hope that these choices not only help the user have fun in their free time but that it also helps them connect with their friends and find harmony through its composition. [Read More About my Prototype...](https://github.com/pandeynadia/nadia/tree/master/Assignment08)
 
+[Click me to see my prototype live!](https://projects.invisionapp.com/prototype/HighFiPrototype-Nadia-Pandey-ck79ncabu007awo01xud02os2/play/e54f7d00) 
+
 ##### Choose Playlist:
 <img width="917" alt="choos playlist" src="https://user-images.githubusercontent.com/59589242/75655610-16846500-5c17-11ea-9ad8-59ffd4179b11.png">
 
@@ -65,7 +67,6 @@ Piano Tiles 4 is a mobile app game designed to allow users to express freedom wh
 ##### Invite a Friend:
 <img width="908" alt="Invite a Friend" src="https://user-images.githubusercontent.com/59589242/75655849-94487080-5c17-11ea-8eb0-ca80b83a11b8.png">
 
-[Click me to see my prototype live!](https://projects.invisionapp.com/prototype/HighFiPrototype-Nadia-Pandey-ck79ncabu007awo01xud02os2/play/e54f7d00) 
 
 ## Evaluation and Revision History: 
 
