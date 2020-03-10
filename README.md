@@ -74,7 +74,6 @@ Piano Tiles 4 is a mobile app game designed to allow users to express freedom wh
 
 [Click Me for User Testing my High-fidelity Prototype](https://drive.google.com/file/d/1DPjvP7KXz-Ol0PMPy4vqrcLc1MFwv8ch/view?usp=sharing)
 
-
 ### What I learned and changed from the feedback:
 
 By reflecting on the evaluation with others, I learned the different placement of the navigation menu made it confusing for the user to act quickly as he had to search around the screen to see where the main menu is. The user also pressed the quit game button when I asked him to go on the home screen. The new changes I have made to fix these issues are to move the “home” icon to the bottom of the screen along with the saved game and quit the game button. I also labeled all three of these icons in order to ensure that the user is never confused about what these buttons do. The user seemed to navigate around the menu otherwise seamlessly, and when I asked him to do the tasks (5 tasks: find how to play the game, choose a difficulty level, choose a playlist, invite friends, and save game), the user had no problem playing the game as I intended it. With the new improvements I have made to the game, I am hopeful that the user will like playing the game even more.
