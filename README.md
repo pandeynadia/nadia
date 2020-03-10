@@ -102,6 +102,6 @@ By reflecting on the evaluation with others, I learned the different placement o
 
 
 
-## Conclusion: what you learned throughout the process?
+## Conclusion: 
 
 This project served as one of the most valuable lessons during my college career. I not only learned how important it is to always think about the audience when creating a product, but I learned how I could begin to put myself in other people's shoes. I especially loved the Usability Testing, where I am learning through others what feature is useful or is missing when creating my app. Doing Usability Testing helped me understand some key features that I need that I would not have thought of otherwise, and it helped me learn how crucial it is to conduct testing. I also learned how to create a wireframe and wire flow, especially the high fidelity prototype. During these past ten weeks, I have learned more than I could imagine. Now I know how to create portfolios and online places where I can network or seek help when needed. I came out of this class a passionate UX Designer who will continue to build her portfolio. I am very grateful for all the lessons I have learned from this class and want to give a special thank you to professor Cho for all her effort and support while teaching this class.
