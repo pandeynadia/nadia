@@ -101,6 +101,7 @@ By reflecting on the evaluation with others, I learned the different placement o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwx1klZX99c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[You can also click me for my Pitch Video](https://www.youtube.com/watch?v=pwx1klZX99c&feature=youtu.be)
 
 ## Conclusion: 
 
