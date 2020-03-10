@@ -72,9 +72,7 @@ Piano Tiles 4 is a mobile app game designed to allow users to express freedom wh
 
 ##### User Testing the Prototype Video:
 
-<figure class="video_container">
-  <iframe src="https://youtu.be/1PCcj6NYcIw" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1PCcj6NYcIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 [Click Me for User Testing my High-fidelity Prototype](https://drive.google.com/file/d/1DPjvP7KXz-Ol0PMPy4vqrcLc1MFwv8ch/view?usp=sharing)
